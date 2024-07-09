@@ -1,0 +1,63 @@
+C:\Windows\system32>ping 172.16.91.6 -t > C:\Users\NETCRACKERksilo\ping_result_KS.txt
+
+Pinging 172.16.91.6 with 32 bytes of data:
+Reply from 172.16.91.6: bytes=32 time=15ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=6ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=6ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=8ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=9ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=4ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+Reply from 172.16.91.6: bytes=32 time=5ms TTL=121
+
+Ping statistics for 172.16.91.6:
+    Packets: Sent = 54, Received = 54, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 15ms, Average = 5ms
+Control-C
